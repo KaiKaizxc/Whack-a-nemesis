@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.grid__container {
+    
+    
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.vertex {
+    height: 200px;
+    width: 200px;
+    border: solid black 1px;
+}
+
+.mole {
+    background-color: burlywood;
+    background-image: url(/Nemesis.jpg);
+    background-size: cover;
+    background-position: center;
+}
